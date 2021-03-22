@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Exploring Vancouver Open Data with R
 
-You can use the [editor on GitHub](https://github.com/lfunderburk/Geospatial-Exploration-with-R/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+By: Laura Gutierrez Funderburk
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This code is inspired by Aetaka Shashank's instructional material https://aticup.github.io/webmapr/
 
-### Markdown
+This repository contains information licensed under the Open Government Licence – Vancouver. See https://opendata.vancouver.ca/pages/licence/ for details. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Datasets used: 
 
-```markdown
-Syntax highlighted code block
+Public Art https://opendata.vancouver.ca/explore/dataset/public-art/information/?rows=50&refine.status=In+place&location=13,49.28936,-123.05022
 
-# Header 1
-## Header 2
-### Header 3
+Local area boundary https://opendata.vancouver.ca/explore/dataset/local-area-boundary/information/?location=13,49.2474,-123.12402 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lfunderburk/Geospatial-Exploration-with-R/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
