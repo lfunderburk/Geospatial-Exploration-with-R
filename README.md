@@ -12,6 +12,9 @@ Public Art https://opendata.vancouver.ca/explore/dataset/public-art/information/
 
 Local area boundary https://opendata.vancouver.ca/explore/dataset/local-area-boundary/information/?location=13,49.2474,-123.12402 
 
+### R Version used
+
+R version 4.0.3 "Bunny-Wunnies Freak Out"
 
 ### R packages required
 
