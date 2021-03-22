@@ -12,3 +12,13 @@ Public Art https://opendata.vancouver.ca/explore/dataset/public-art/information/
 
 Local area boundary https://opendata.vancouver.ca/explore/dataset/local-area-boundary/information/?location=13,49.2474,-123.12402 
 
+
+### R packages required
+
+    install.packages("leaflet") # version 2.0.4.1
+    install.packages("magittr # version 2.0.1
+    install.packages("tidyverse") # 1.3.0
+    install.packages("sf") # 0.9-8
+    install.packages("maps")
+    install.packages("jsonlite") # 1.7.2
+    install.packages("tidyjson") # 0.3.1
